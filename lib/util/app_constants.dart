@@ -15,7 +15,7 @@ class AppConstants {
   static const String webHostedUrl = 'https://luna.mpaxx.com.ng';
   static const bool useReactWebsite = false;
 
-  static const String baseUrl = 'https://luna.mpaxx.com.ng/';
+  static const String baseUrl = 'https://luna.mpaxx.com.ng';
   static const String categoryUri = '/api/v1/categories';
   static const String bannerUri = '/api/v1/banners';
   static const String storeItemUri = '/api/v1/items/latest';
