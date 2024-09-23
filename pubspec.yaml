@@ -60,7 +60,7 @@ dependencies:
   image: ^4.2.0
   smooth_page_indicator: ^1.1.0
   chewie: ^1.8.1
-  location: ^7.0.0
+  location:
 
 dev_dependencies:
   flutter_test:
